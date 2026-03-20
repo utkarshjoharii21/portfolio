@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✨🌐 Utkarsh Johari - Portfolio 🚀
 
-# Run and deploy your AI Studio app
+> ⚡ A modern, responsive developer portfolio built to showcase my projects, skills, and creativity.  
+> 🧑‍💻 Designed and developed by me using React, TypeScript, Vite, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/e4321aaa-a947-4392-9397-c982411f1862
+## 🌍 Live Demo  
+🔗 https://bit.ly/utkarsh-web
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
+⚡ Fast and optimized performance  
+🎨 Clean and modern UI design  
+📱 Fully responsive across all devices  
+🌙 Dark mode interface  
+✨ Smooth animations and interactive components  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+⚛️ React | ⌨️ TypeScript | ⚡ Vite | 🎨 Tailwind CSS | 🟢 Node.js  
+
+---
+
+## ⚙️ Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+```bash
+npm run build
+npm run deploy
+```
+
+---
+
+## 👨‍💻 Author
+
+💼 Utkarsh Johari  
+🐙 GitHub: https://github.com/utkarshjoharii21  
+🌐 Portfolio: https://bit.ly/utkarsh-web
